@@ -1,0 +1,15 @@
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\Matrix Shuffling\bin\Debug\net8.0\Matrix Shuffling.exe
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\Matrix Shuffling\bin\Debug\net8.0\Matrix Shuffling.deps.json
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\Matrix Shuffling\bin\Debug\net8.0\Matrix Shuffling.runtimeconfig.json
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\Matrix Shuffling\bin\Debug\net8.0\Matrix Shuffling.dll
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\Matrix Shuffling\bin\Debug\net8.0\Matrix Shuffling.pdb
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\Matrix Shuffling\obj\Debug\net8.0\Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\Matrix Shuffling\obj\Debug\net8.0\Matrix Shuffling.AssemblyInfoInputs.cache
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\Matrix Shuffling\obj\Debug\net8.0\Matrix Shuffling.AssemblyInfo.cs
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\Matrix Shuffling\obj\Debug\net8.0\Matrix Shuffling.csproj.CoreCompileInputs.cache
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\Matrix Shuffling\obj\Debug\net8.0\Matrix Shuffling.sourcelink.json
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\Matrix Shuffling\obj\Debug\net8.0\Matrix Shuffling.dll
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\Matrix Shuffling\obj\Debug\net8.0\refint\Matrix Shuffling.dll
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\Matrix Shuffling\obj\Debug\net8.0\Matrix Shuffling.pdb
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\Matrix Shuffling\obj\Debug\net8.0\Matrix Shuffling.genruntimeconfig.cache
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\Matrix Shuffling\obj\Debug\net8.0\ref\Matrix Shuffling.dll
