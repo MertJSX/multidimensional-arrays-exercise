@@ -1,0 +1,15 @@
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\SnakeMoves\bin\Debug\net8.0\SnakeMoves.exe
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\SnakeMoves\bin\Debug\net8.0\SnakeMoves.deps.json
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\SnakeMoves\bin\Debug\net8.0\SnakeMoves.runtimeconfig.json
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\SnakeMoves\bin\Debug\net8.0\SnakeMoves.dll
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\SnakeMoves\bin\Debug\net8.0\SnakeMoves.pdb
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\SnakeMoves\obj\Debug\net8.0\SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\SnakeMoves\obj\Debug\net8.0\SnakeMoves.AssemblyInfoInputs.cache
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\SnakeMoves\obj\Debug\net8.0\SnakeMoves.AssemblyInfo.cs
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\SnakeMoves\obj\Debug\net8.0\SnakeMoves.csproj.CoreCompileInputs.cache
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\SnakeMoves\obj\Debug\net8.0\SnakeMoves.sourcelink.json
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\SnakeMoves\obj\Debug\net8.0\SnakeMoves.dll
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\SnakeMoves\obj\Debug\net8.0\refint\SnakeMoves.dll
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\SnakeMoves\obj\Debug\net8.0\SnakeMoves.pdb
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\SnakeMoves\obj\Debug\net8.0\SnakeMoves.genruntimeconfig.cache
+D:\Mert\Programming projects\C# execises\multidimensional-arrays-exercise\SnakeMoves\obj\Debug\net8.0\ref\SnakeMoves.dll
